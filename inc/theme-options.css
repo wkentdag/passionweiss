@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.form-table tr:nth-child(even){
+	background-color: #F4F4F4;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666666;
+}
+.form-table tr:nth-child(odd){
+	background-color: #E8E8E8;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666666;
+}
+.form-table {
+width:600px;
+}

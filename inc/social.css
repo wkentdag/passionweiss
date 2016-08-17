@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#social_media{
+	position: absolute;
+	height: auto;
+	width: auto;
+	top: 10px;
+	right: 0px;
+}
+#social_media img{
+	height: auto;
+	width: 32px;
+}
