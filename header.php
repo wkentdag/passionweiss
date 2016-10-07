@@ -18,7 +18,7 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 	<link rel="icon" href="favicon.ico" type="image/x-icon"/>
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
-	
+
 	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-545f8d7155dd5b9d" async="async"></script>
 
 	<? wp_head(); ?>
@@ -45,7 +45,7 @@
 			<div id="logo">
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img src="<? bloginfo('template_directory'); ?>/images/logo.png" border="0" alt="<?php bloginfo( 'name' ); ?>"></a>
 			</div>
-			<div id="topAds"><a href="https://itunes.apple.com/us/album/petestrumentals-2/id977868001"><img src="/wp-content/uploads/2015/07/peterock.gif" border="0"></a></div>
+			<div id="topAds"><a href="http://www.amazon.com/Original-Gangstas-Untold-Eazy-E-Shakur/dp/0316383899"><img src="/wp-content/uploads/2016/10/original_gangstas_animated-1.gif" border="0"></a></div>
 		</div><!-- /heading -->
     </div><!-- /headingContainer -->
 </div><!-- /headingWrapper -->
