@@ -45,7 +45,7 @@
 			<div id="logo">
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img src="<? bloginfo('template_directory'); ?>/images/logo.png" border="0" alt="<?php bloginfo( 'name' ); ?>"></a>
 			</div>
-			<div id="topAds"><a href="#"><img src="/wp-content/uploads/2016/09/original_gangstas.gif" border="0"></a></div>
+			<div id="topAds"><a href="http://www.amazon.com/Original-Gangstas-Untold-Eazy-E-Shakur/dp/0316383899"><img src="/wp-content/uploads/2016/10/original_gangstas_animated-1.gif" border="0"></a></div>
 		</div><!-- /heading -->
     </div><!-- /headingContainer -->
 </div><!-- /headingWrapper -->
