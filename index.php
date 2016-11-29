@@ -152,7 +152,24 @@ if ($staffpicks->have_posts()) {
 			<a href="https://www.youtube.com/channel/UCbd7VXWPG13AbTiL8BSV5jg"><img src="<? bloginfo("template_directory"); ?>/images/youtube.png" style="float: left;"></a>
 			<!--<a href="#"><img src="<? bloginfo("template_directory"); ?>/images/paypal.png" style="float: left;"></a>-->
 		</div>
-		<? get_sidebar(); ?>
+		<ul class="sidebar">
+      <li id="text-4" class="widget widget_text">
+        <div class="textwidget">
+          <div style="width: 100%; height: 250px;">
+            <a href="http://shotsfiredpodcast.com">
+              <img src="/wp-content/themes/weiss/images/shotsfired.jpg">
+            </a>
+          </div>
+        </div>
+      </li>
+      <li id="text-3" class="widget widget_text">
+        <div class="textwidget">
+          <a href='http://www.theecho.com/event/1378009-chester-watson-los-angeles/'>
+            <img src="http://www.passionweiss.com/wp-content/uploads/2016/11/image1.jpg">
+          </a>
+        </div>
+      </li>
+    </ul>
 	</div><!-- /rightCol -->
 	<div class="clear" style="height: 60px;"></div>
 	
