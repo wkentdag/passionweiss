@@ -164,8 +164,8 @@ if ($staffpicks->have_posts()) {
       </li>
       <li id="text-3" class="widget widget_text">
         <div class="textwidget">
-          <a href='http://www.theecho.com/event/1378009-chester-watson-los-angeles/'>
-            <img src="http://www.passionweiss.com/wp-content/uploads/2016/11/image1.jpg">
+          <a href='https://www.youtube.com/watch?v=nXGgw3m0AXE' target="_blank">
+            <img src="http://www.passionweiss.com/wp-content/uploads/2017/01/tenheaded.png">
           </a>
         </div>
       </li>
